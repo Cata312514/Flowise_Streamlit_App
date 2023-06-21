@@ -1,0 +1,7 @@
+requests
+streamlit
+streamlit-chat
+python-dotenv
+pinecone-client
+beautifulsoup4
+langchain
